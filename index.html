@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Galería de imágenes moderna, responsive y altamente interactiva">
     <title>Draconky</title>
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
     <link href="./index.css" rel="stylesheet">
 </head>
+
 <body>
 
     <div class="container py-5">
@@ -18,7 +20,7 @@
                 📸 Mini Galeria de Imagenes
             </h1>
             <p class="text-muted fs-5">Versión Beta de la galeria de imagenes.</p>
-            
+
             <div class="d-flex justify-content-center gap-3 mt-4">
                 <button id="btn-grid" class="btn btn-outline-light active" title="Vista en cuadrícula">
                     <i class="fas fa-th-large"></i>
@@ -41,12 +43,14 @@
                         <button id="btn-download" class="btn btn-outline-light btn-sm" title="Descargar imagen">
                             <i class="fas fa-download"></i>
                         </button>
-                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                            aria-label="Cerrar"></button>
                     </div>
                 </div>
                 <div class="modal-body p-0 text-center bg-black position-relative">
-                    <img id="modalImage" src="" alt="Imagen ampliada" class="img-fluid w-100" style="max-height: 88vh; object-fit: contain;">
-                    
+                    <img id="modalImage" src="" alt="Imagen ampliada" class="img-fluid w-100"
+                        style="max-height: 88vh; object-fit: contain;">
+
                     <button id="prevBtn" class="nav-btn position-absolute start-0 top-50 translate-middle-y">
                         <i class="fas fa-chevron-left"></i>
                     </button>
@@ -65,4 +69,5 @@
     <script src="./index.js"></script>
 
 </body>
+
 </html>
