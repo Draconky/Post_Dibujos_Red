@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "Emilia y la nieve",
+    "ruta": "Emilia y la nieve.png",
+    "descripcion": "Emilia estaba construyendo un muñeco de nieve con sus propias manos, sin usar nada de magia.\nNo pensó que terminaría cayéndole encima.\nLa nieve ganó esta ronda.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Felicidades Anastasia Hoshin",
+    "ruta": "Felicidades Anastasia Hoshin.png",
+    "descripcion": "OMG, Anastasia logró algo impensable en ese mundo.\nEspera... ¿y ahora quién hará el trabajo de la gente?\nEl progreso también trae desempleo.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Incomodo lugar",
+    "ruta": "Incomodo lugar.png",
+    "descripcion": "Betty pensó que se vería elegante sentada en el hombro.\nAhora solo intenta no caerse.\nBen le advirtió que no lo hiciera, pero ella no escuchó por orgullo.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Meili casco",
+    "ruta": "Meili casco.png",
+    "descripcion": "Pequeña Meili, es por tu bien.\nQuién sabe qué podría pasarte si te quitas eso.\nEspera... tú sí lo sabes.\nQue te controlen mentalmente no es nada bonito.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Mini If Anastasia y Ben",
+    "ruta": "Mini If Anastasia y Ben.png",
+    "descripcion": "Una ruta donde todo cambia.\nEspera... ¿por qué Anastasia está siendo tan imprudente?\nJulius corrige a Ben antes de que Ana le pida usar a Upgrade de armadura!.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Ram con aderezo",
+    "ruta": "Ram con aderezo.png",
+    "descripcion": "\"Perdón, Ram...\"\nPalabras de Ben Tennyson antes de que ella lo persiguiera con una sartén.\nPuede transformarse y huir, pero sabe que se lo merece.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Reunion de creaciones",
+    "ruta": "Reunion de creaciones.png",
+    "descripcion": "Betty opina que Malware es raro.\nMalware opina que Betty es enana.\nBetty quiere golpearlo, pero el mecamorfo es demasiado duro.\nDiscusión sin ganador.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Ruta Inv - Sin terminar",
+    "ruta": "Ruta Inv - Sin terminar.png",
+    "descripcion": "Pobre momento para aparecer un robot asesino.\n¡Corran, gentecita!\nLa niña movió el sensor y los descubrió.\nMisión actual: exterminar... exterminar.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "Un poco de susto",
+    "ruta": "Un poco de susto.png",
+    "descripcion": "Después de eso, Ben evitó volver a jugarle bromas así.\nLa visita en su prisión aunque ella quiera pegarle o morderlo.\nFrederica es de las pocas que logra calmar a la niña.",
+    "estado_visible": true
+  },
+  {
+    "titulo": "XLR8 con Betty",
+    "ruta": "XLR8 con Betty.png",
+    "descripcion": "\"¡Betty aceptó que la llevaras, pero no así!\"\nNah, dijo Ben.\nXLR8 no conoce el concepto de viaje tranquilo.",
+    "estado_visible": true
+  }
+]
